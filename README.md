@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Starting Server 
+First install the xampp then turn on the apache server and mysql server 
+Then go to phpmyadmin and create database inotebook and in this database create two table named user and notebook
+
 ## Available Scripts
 
 In the project directory, you can run:
